@@ -32,8 +32,8 @@
 @font-face {
   font-family: "blacknight";
 
-  src: url("bookinsanity.ttf") format("truetype"),
-    url("bookinsanity.woff2") format("woff2");
+  src: url("BlackNight.ttf") format("truetype"),
+    url("BlackNight.woff2") format("woff2");
 }
 body {
   margin-left: 5%;
