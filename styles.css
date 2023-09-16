@@ -1,8 +1,8 @@
 @font-face {
   font-family: "mr-eaves";
-  src: url("..mr eaves small caps.woff2");
-  src: url("..mr eaves small caps.ttf") format("truetype"),
-    url("..mr eaves small caps.woff2") format("woff2");
+  src: url("../../mr eaves small caps.woff2");
+  src: url("../../mr eaves small caps.ttf") format("truetype"),
+    url("../../mr eaves small caps.woff2") format("woff2");
 }
 @font-face {
   font-family: "bookinsanity";
