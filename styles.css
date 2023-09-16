@@ -1,36 +1,39 @@
 @font-face {
   font-family: "mr-eaves";
-  src: local("mr-eaves"), url("mr eaves small caps.ttf") format("truetype"),
+
+  src: url("mr eaves small caps.ttf") format("truetype"),
     url("mr eaves small caps.woff2") format("woff2");
 }
 @font-face {
   font-family: "bookinsanity";
-  src: local("bookinsanity"), url("bookinsanity.ttf") format("truetype"),
+
+  src: url("bookinsanity.ttf") format("truetype"),
     url("bookinsanity.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "bookinsanitybold";
-  src: local("bookinsanitybold"),
-    url("bookinsanity bold.ttf") format("truetype"),
+
+  src: url("bookinsanity bold.ttf") format("truetype"),
     url("bookinsanity bold.woff2") format("woff2");
 }
 @font-face {
   font-family: "bookinsanityitalic";
-  src: local("bookinsanityitalic"),
-    url("bookinsanity italic.ttf") format("truetype"),
+
+  src: url("bookinsanity italic.ttf") format("truetype"),
     url("bookinsanity italic.woff2") format("woff2");
 }
 @font-face {
   font-family: "bookinsanitybolditalic";
-  src: local("bookinsanitybolditalic"),
-    url("bookinsanitybolditalic.ttf") format("truetype"),
+
+  src: url("bookinsanitybolditalic.ttf") format("truetype"),
     url("bookinsanitybolditalic.woff2") format("woff2");
 }
 @font-face {
   font-family: "blacknight";
-  src: local("blacknight"), url("BlackNight.ttf") format("truetype"),
-    url("BlackNight.woff2") format("woff2");
+
+  src: url("bookinsanity.ttf") format("truetype"),
+    url("bookinsanity.woff2") format("woff2");
 }
 body {
   margin-left: 5%;
