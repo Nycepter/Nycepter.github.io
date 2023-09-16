@@ -25,7 +25,7 @@
 }
 @font-face {
   font-family: "bookinsanitybolditalic";
-  src: url("bookinsanitybolditalic.woff2");
+  src: url("/bookinsanitybolditalic.woff2");
   src: url("bookinsanitybolditalic.ttf") format("truetype"),
     url("bookinsanitybolditalic.woff2") format("woff2");
 }
