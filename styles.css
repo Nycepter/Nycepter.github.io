@@ -1,7 +1,7 @@
 @font-face {
   font-family: "mr-eaves";
-  src: url("Mr Eaves Small Caps.ttf");
-  src: url("Mr Eaves Small Caps.ttf") format("truetype"),
+  src: url("./fonts/mr eaves small caps.ttf");
+  src: url("mr eaves small caps.ttf") format("truetype"),
     url("mr eaves small caps.woff2") format("woff2");
 }
 @font-face {
