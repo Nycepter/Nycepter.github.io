@@ -3,8 +3,8 @@
   src: url("./fonts/mr eaves small caps.ttf");
 }
 @font-face {
-  font-family: "./fonts/bookinsanity";
-  src: url("bookinsanity.ttf");
+  font-family: "bookinsanity";
+  src: url("./fonts/bookinsanity.ttf");
 }
 
 @font-face {
