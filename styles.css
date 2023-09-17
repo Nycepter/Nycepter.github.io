@@ -1,8 +1,7 @@
 @font-face {
   font-family: "mr-eaves";
-  src: url("https://github.com/Nycepter/nycepter.github.io/blob/b3dde2bbfc20b28605a8f9e100f9e0b590f3825e/Mr%20Eaves%20Small%20Caps.ttf");
-  src: url("https://github.com/Nycepter/nycepter.github.io/blob/b3dde2bbfc20b28605a8f9e100f9e0b590f3825e/Mr%20Eaves%20Small%20Caps.ttf")
-    format("truetype");
+  src: url("/fonts/mr eaves small caps.ttf");
+  src: url("/fonts/mr eaves small caps.ttf") format("truetype");
 }
 @font-face {
   font-family: "bookinsanity";
