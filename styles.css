@@ -131,3 +131,6 @@ img {
     width: 55vw;
   }
 }
+#pointer:hover {
+  cursor: pointer;
+}
