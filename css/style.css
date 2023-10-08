@@ -285,3 +285,7 @@
   border-radius: 5px;
   margin-right: 5px;
 }
+.text-primary {
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
