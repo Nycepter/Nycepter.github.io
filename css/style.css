@@ -289,3 +289,9 @@
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
     1px 1px 0 #000;
 }
+#libraries {
+  margin-left: 48px;
+}
+#realname {
+  margin-left: 48px;
+}
