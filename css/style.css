@@ -292,6 +292,57 @@
 #libraries {
   margin-left: 48px;
 }
-#realname {
-  margin-left: 48px;
+.real-name {
+}
+.main-name {
+}
+
+.tooltip1 {
+  position: relative;
+  display: inline-flex;
+}
+.tooltip1 .tooltiptext1 {
+  visibility: hidden;
+  width: auto;
+  background-color: #191c24;
+  color: white;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 5px;
+  border: 1px solid black;
+  position: absolute;
+  top: 25px;
+  left: 0px;
+  z-index: 1;
+  font-size: calc(0.4rem + 0.9vw);
+  padding-left: 2px;
+  padding-right: 2px;
+}
+.tooltip1:hover .tooltiptext1 {
+  visibility: visible;
+}
+
+.tooltip0 {
+  position: relative;
+  display: inline-flex;
+}
+.tooltip0 .tooltiptext0 {
+  visibility: hidden;
+  width: auto;
+  background-color: #191c24;
+  color: white;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 5px;
+  border: 1px solid black;
+  position: absolute;
+  top: 30px;
+  left: 0px;
+  z-index: 1;
+  font-size: calc(0.5rem + 0.1vw);
+  padding-left: 2px;
+  padding-right: 2px;
+}
+.tooltip0:hover .tooltiptext0 {
+  visibility: visible;
 }
